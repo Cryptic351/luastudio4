@@ -1,6 +1,6 @@
 ![LUA STUDIO](lua_studio_logo.png)
 
-# LUA STUDIO | DUELS FORK [PRIVATE]
+# LUA STUDIO | DUELS  [PRIVATE]
 
 ### Yellow & Black | Pixel Logo | Fade-In | Anti-Skid
 
